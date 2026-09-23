@@ -35,8 +35,4 @@
 
 ---
 
-<div align="center">
 
-[![](https://komarev.com/ghpvc/?username=jyo-coded&icon=0&color=5)](https://visitcount.itsvg.in)
-
-</div>
